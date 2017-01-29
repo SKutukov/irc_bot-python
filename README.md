@@ -1,2 +1,7 @@
 # irc_bot
-irc bit for Computer net 
+irc bot for Computer Net 
+
+##command:
+* _starWars Darth Vader
+* _quit2016
+* show some magig BotNickName
